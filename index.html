@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1,  shrink-to-fit=no">
+  <title> Foreged 250 randomiser.
+  </title>
+  <link href='https://fonts.googleapis.com/css?family=Special Elite' rel='stylesheet'>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.16.0/dist/bootstrap-table.min.css">
+  <link rel="stylesheet" href="dist/style.css">
+</head>
+
+<body>
+  <div class="container w-100">
+    <div class="row">
+
+      <div class="col w-50 p-0">
+        <img src="assets/The-DAILY-250.jpg" width="100%">
+        <div>
+          <p>
+            The Daily 250 was created to help you ELIMINATE THE
+            EXCUSES for when it comes to getting in your DAILY
+            FITNESS.</p>
+
+          <p>As a Forged FATHER, you know IT’S A CODE that we make
+            our daily FITNESS a PRIORITY and a key part of WHO we
+            are as men because you know that when you’re in great
+            shape, fit, and strong, it makes YOU that much better as
+            a whole.</p>
+          <p>
+            Use the Daily 250 as a “last resort” when you need it
+            most OR use to simply add in some extra volume to
+            harden and strengthen the body and mind.</p>
+          <p>
+            Whether you’re on the go, “too busy” or the sh*t just
+            absolutely hits the fan, you have the DAILY 250.</p>
+          <p>
+            Commit to getting the work done and the RESULTS will be
+            EARNED back in return.</p>
+          <p>
+            If you’re up for a true challenge, hit a Daily 250
+            routine EVERYDAY.</p>
+          <p>
+            You do that for a FULL year, that’s 91,250 reps!! Something only an UNCOMMON man would commit to
+            completing.</p>
+          <p>
+
+            This is just as much PHYSICAL as it is MENTAL.</p>
+          <p>
+            DO THE WORK & EARN IT!</p>
+        </div>
+      </div>
+      <div class="col w-50 daily">
+        <h1 class="text text-center">
+          Forged 250
+        </h1>
+        <center>
+          <button type="button" class="btn btn-dark challange">Challange me!!</button>
+        </center>
+        <div class="f250div">
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"> </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"> </script>
+
+  <script src="js/script.js"> </script>
+
+  <script type="text/javascript">
+    $(document).ready(function () {
+
+      var resultDiv = $('.f250div');
+
+      $(".challange").on("click", function () {
+        resultDiv.empty();
+        console.log("Challanged");
+        LoadRandomOne();
+      });
+
+
+      LoadAll();
+
+
+    });
+
+
+  </script>
+
+</body>
+
+</html>

@@ -1,0 +1,8614 @@
+[
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    },
+    {
+        "title": "25 Rounder 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work Up 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 1.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 0,
+                "name": "HSPU"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge Jump"
+            },
+            {
+                "reps": 0,
+                "name": "Strict T2B"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 50,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work Down 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Hip Extensions"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 2.0",
+        "note": "10, 9, 8, 7, 6, 4, 3,2, 1 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Squat Jump"
+            },
+            {
+                "reps": 0,
+                "name": "Full V-Sit"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Pike Press"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            },
+            {
+                "reps": 10,
+                "name": "Burpees"
+            },
+            {
+                "reps": 10,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work Down 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Pike Press"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 3.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Push Up"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Burpees"
+            },
+            {
+                "reps": 5,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work Down 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 4.0",
+        "note": "10,9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Lunge Jump"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge Jump"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "HSPU"
+            },
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Squat Jumps"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Burpees"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "HSPU"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "Strict Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    },
+    {
+        "title": "Squat Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 120,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 130,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 5.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Push Up"
+            },
+            {
+                "reps": 0,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 0,
+                "name": "Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Recline Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Squat Jumps"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Recline Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Lunge Jumps"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Sit Outs"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            },
+            {
+                "reps": 75,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Squats"
+            },
+            {
+                "reps": 125,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 6.0",
+        "note": "10, 9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 15,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 5,
+                "name": "HSPU"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Sit Outs"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250 (BRUTAL!!!!)",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 2,
+                "name": "Rounds"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "HSPU"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Squats"
+            },
+            {
+                "reps": 125,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 7.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "HSPU"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Burpees"
+            },
+            {
+                "reps": 15,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Burpees"
+            },
+            {
+                "reps": 5,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 2,
+                "name": "Rounds"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "HSPU"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "KB Swing"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    },
+    {
+        "title": "Squat Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Squats"
+            },
+            {
+                "reps": 125,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 8.0",
+        "note": "10, 9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Hip Extensions"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Rounds"
+            },
+            {
+                "reps": 1,
+                "name": "Burpee"
+            },
+            {
+                "reps": 2,
+                "name": "Squats"
+            },
+            {
+                "reps": 3,
+                "name": "HSPU"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 120,
+                "name": "Squats"
+            },
+            {
+                "reps": 130,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 9.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Hip Extensions"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    },
+    {
+        "title": "ZERO GEAR 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Rounds"
+            },
+            {
+                "reps": 1,
+                "name": "Burpee"
+            },
+            {
+                "reps": 2,
+                "name": "Squats"
+            },
+            {
+                "reps": 3,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 4,
+                "name": "Lunge Jumps"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 120,
+                "name": "Burpees"
+            },
+            {
+                "reps": 130,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Burpees"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 10.0",
+        "note": "10, 9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 15,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 5,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpees"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpees"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work Up 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 1.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 0,
+                "name": "HSPU"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge Jump"
+            },
+            {
+                "reps": 0,
+                "name": "Strict T2B"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 50,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work Down 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 1.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Hip Extensions"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 2.0",
+        "note": "10, 9, 8, 7, 6, 4,3, 2, 1 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Squat Jump"
+            },
+            {
+                "reps": 0,
+                "name": "Full V-Sit"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Pike Press"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            },
+            {
+                "reps": 10,
+                "name": "Burpees"
+            },
+            {
+                "reps": 10,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    },
+    {
+        "title": "Do Work Down 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 2.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Pike Press"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 3.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Push Up"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Burpees"
+            },
+            {
+                "reps": 5,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work Down 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 3.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 125,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 4.0",
+        "note": "10, 9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Lunge Jump"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge Jump"
+            },
+            {
+                "reps": 0,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 0,
+                "name": "HSPU"
+            },
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Squat Jumps"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Burpees"
+            },
+            {
+                "reps": 5,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Hollow Rocks"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    },
+    {
+        "title": "Do Work 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sits"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 4.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "HSPU"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "Strict Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 120,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 130,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 5.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5 :-)",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Push Up"
+            },
+            {
+                "reps": 0,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 0,
+                "name": "Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Recline Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "Squat Jumps"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Recline Row"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Lunge Jumps"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 5.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Sit Outs"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 75,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            },
+            {
+                "reps": 75,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "HSPU"
+            },
+            {
+                "reps": 2,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Squats"
+            },
+            {
+                "reps": 125,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swing Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 6.0",
+        "note": "10, 9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 15,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Burpees"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squatting Machine 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            },
+            {
+                "reps": 5,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 5,
+                "name": "HSPU"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Sit Outs"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 75,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Push ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Squats"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunging Machine 6.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            },
+            {
+                "reps": 5,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 2,
+                "name": "Rounds"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Superman Reach \u002B Row"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "HSPU"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Squats"
+            },
+            {
+                "reps": 125,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 7.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "HSPU"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Burpees"
+            },
+            {
+                "reps": 15,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Burpees"
+            },
+            {
+                "reps": 5,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "HSPU"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 7.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 2,
+                "name": "Rounds"
+            },
+            {
+                "reps": 25,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "HSPU"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "KB Swing"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 125,
+                "name": "Squats"
+            },
+            {
+                "reps": 125,
+                "name": "Pull Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 8.0",
+        "note": "10, 9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "Strict HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 20,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Hip Extensions"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    },
+    {
+        "title": "Do Work 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 8.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Lunges"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Rounds"
+            },
+            {
+                "reps": 1,
+                "name": "Burpee"
+            },
+            {
+                "reps": 2,
+                "name": "Squats"
+            },
+            {
+                "reps": 3,
+                "name": "HSPU"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 3,
+                "name": "Squats"
+            },
+            {
+                "reps": 4,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 120,
+                "name": "Squats"
+            },
+            {
+                "reps": 130,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 9.0",
+        "note": "1, 2, 3, 4, 6, 7, 8, 9, 10 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Lunge"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Push Up Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "HSPU"
+            },
+            {
+                "reps": 5,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 20,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Hip Extensions"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "V-Sits"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 75,
+                "name": "Recline Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "Squats"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 9.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "HSPU"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE 250",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 250,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "ZERO GEAR 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Rounds"
+            },
+            {
+                "reps": 1,
+                "name": "Burpee"
+            },
+            {
+                "reps": 2,
+                "name": "Squats"
+            },
+            {
+                "reps": 3,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 4,
+                "name": "Lunge Jumps"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Lunge Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Lunges"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "25 Rounder 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 1,
+                "name": "Strict Pull Up"
+            },
+            {
+                "reps": 2,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 3,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 4,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Squats"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses Super Setter 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 120,
+                "name": "Burpees"
+            },
+            {
+                "reps": 130,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Swings Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Swings"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            },
+            {
+                "reps": 100,
+                "name": "Burpees"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Row Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Rows"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Rows"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Ladder Madness 10.0",
+        "note": "10, 9, 8, 7, 6, 4, 3, 2, 1 Of Each<br/>***NOTE there is NO round of 5",
+        "exercises": [
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Squat"
+            },
+            {
+                "reps": 0,
+                "name": "Recline Row"
+            },
+            {
+                "reps": 0,
+                "name": "Swing"
+            },
+            {
+                "reps": 0,
+                "name": "Sit Outs / Side"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "5 Rounder 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 10,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 15,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Squat Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Dimer 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 10,
+                "name": "Rounds"
+            },
+            {
+                "reps": 5,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 5,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 5,
+                "name": "Squats"
+            },
+            {
+                "reps": 20,
+                "name": "Push Ups"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "No Excuses 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpees"
+            },
+            {
+                "reps": 75,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 25,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Burpee Sandwich 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpee"
+            },
+            {
+                "reps": 25,
+                "name": "HSPU"
+            },
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 100,
+                "name": "Burpee"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "50 Of Each 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            },
+            {
+                "reps": 50,
+                "name": "Lunges"
+            },
+            {
+                "reps": 50,
+                "name": "KB Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "Do Work 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 100,
+                "name": "Burpees"
+            },
+            {
+                "reps": 25,
+                "name": "KB Swing"
+            },
+            {
+                "reps": 50,
+                "name": "Strict Pull Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Squats"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "SAVAGE SWINGS 10.0",
+        "note": null,
+        "exercises": [
+            {
+                "reps": 5,
+                "name": "Rounds"
+            },
+            {
+                "reps": 10,
+                "name": "Full V-Sit"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            },
+            {
+                "reps": 10,
+                "name": "Recline Rows"
+            },
+            {
+                "reps": 15,
+                "name": "Swings"
+            }
+        ],
+        "benchmark": false
+    },
+    {
+        "title": "The Daily 250 BENCHMARK",
+        "note": "For Time",
+        "exercises": [
+            {
+                "reps": 25,
+                "name": "Pull Ups"
+            },
+            {
+                "reps": 50,
+                "name": "Push Ups"
+            },
+            {
+                "reps": 75,
+                "name": "Russian Swings"
+            },
+            {
+                "reps": 100,
+                "name": "Lunges"
+            }
+        ],
+        "benchmark": true
+    }
+]

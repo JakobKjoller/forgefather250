@@ -1,0 +1,51 @@
+body {
+  font-family: "Special Elite";
+  font-size: 22px;
+}
+
+.daily {
+  padding-top: 40px;
+}
+.daily h1 {
+  margin-bottom: 20px;
+}
+
+.f250div {
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  width: 50%;
+  padding: 10px;
+}
+.f250div .workout {
+  margin-bottom: 30px;
+}
+.f250div .workout .note {
+  font-size: 1.2em;
+}
+.f250div .workout .exercises {
+  display: table;
+  width: auto;
+  border: 1px solid #666666;
+  border-spacing: 5px;
+  /*cellspacing:poor IE support for  this*/
+  /* border-collapse:separate;*/
+}
+.f250div .workout .exercises h3 {
+  text-align: center;
+}
+.f250div .workout .exercises .exerciserow {
+  display: table-row;
+  width: auto;
+}
+.f250div .workout .exercises .exerciserep,
+.f250div .workout .exercises .exercise {
+  float: left;
+  /*fix for  buggy browsers*/
+  display: table-column;
+  width: 200px;
+}
+
+.container {
+  max-width: 100%;
+}
