@@ -273,12 +273,8 @@
     },
     {
         "title": "Squatting Machine 1.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -292,12 +288,8 @@
     },
     {
         "title": "Dimer 1.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -419,12 +411,8 @@
     },
     {
         "title": "SAVAGE SWINGS 1.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -446,12 +434,8 @@
     },
     {
         "title": "Lunging Machine 1.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -714,12 +698,8 @@
     },
     {
         "title": "Squatting Machine 2.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -733,12 +713,8 @@
     },
     {
         "title": "Dimer 2.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -760,12 +736,8 @@
     },
     {
         "title": "No Excuses 2.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -864,12 +836,8 @@
     },
     {
         "title": "SAVAGE SWINGS 2.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "HSPU"
@@ -891,12 +859,8 @@
     },
     {
         "title": "Lunging Machine 2.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -1146,12 +1110,8 @@
     },
     {
         "title": "Squatting Machine 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -1165,12 +1125,8 @@
     },
     {
         "title": "Dimer 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -1192,12 +1148,8 @@
     },
     {
         "title": "No Excuses 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Push Ups"
@@ -1292,12 +1244,8 @@
     },
     {
         "title": "SAVAGE SWINGS 3.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -1319,12 +1267,8 @@
     },
     {
         "title": "Lunging Machine 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -1574,12 +1518,8 @@
     },
     {
         "title": "Squatting Machine 4.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -1593,12 +1533,8 @@
     },
     {
         "title": "Dimer 4.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -1620,12 +1556,8 @@
     },
     {
         "title": "No Excuses 4.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Burpees"
@@ -1720,12 +1652,8 @@
     },
     {
         "title": "SAVAGE SWINGS 4.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -1747,12 +1675,8 @@
     },
     {
         "title": "Lunging Machine 4.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -2033,12 +1957,8 @@
     },
     {
         "title": "Squatting Machine 5.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -2052,12 +1972,8 @@
     },
     {
         "title": "Dimer 5.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -2171,12 +2087,8 @@
     },
     {
         "title": "SAVAGE SWINGS 5.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Squats"
@@ -2198,12 +2110,8 @@
     },
     {
         "title": "Lunging Machine 5.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -2461,12 +2369,8 @@
     },
     {
         "title": "Squatting Machine 6.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -2480,12 +2384,8 @@
     },
     {
         "title": "Dimer 6.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -2599,12 +2499,8 @@
     },
     {
         "title": "SAVAGE SWINGS 6.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Strict Pull Ups"
@@ -2626,12 +2522,8 @@
     },
     {
         "title": "Lunging Machine 6.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -2656,12 +2548,8 @@
     },
     {
         "title": "ZERO GEAR 7.0",
-        "note": null,
+        "note": "2 Rounds",
         "exercises": [
-            {
-                "reps": 2,
-                "name": "Rounds"
-            },
             {
                 "reps": 25,
                 "name": "Squats"
@@ -2893,12 +2781,8 @@
     },
     {
         "title": "Dimer 7.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -3012,12 +2896,8 @@
     },
     {
         "title": "SAVAGE SWINGS 7.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Strict Pull Ups"
@@ -3050,12 +2930,8 @@
     },
     {
         "title": "ZERO GEAR 8.0",
-        "note": null,
+        "note": "2 Rounds",
         "exercises": [
-            {
-                "reps": 2,
-                "name": "Rounds"
-            },
             {
                 "reps": 25,
                 "name": "Burpee"
@@ -3310,12 +3186,8 @@
     },
     {
         "title": "Dimer 8.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -3429,12 +3301,8 @@
     },
     {
         "title": "SAVAGE SWINGS 8.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Lunges"
@@ -3467,12 +3335,8 @@
     },
     {
         "title": "ZERO GEAR 9.0",
-        "note": null,
+        "note": "25 Rounds",
         "exercises": [
-            {
-                "reps": 25,
-                "name": "Rounds"
-            },
             {
                 "reps": 1,
                 "name": "Burpee"
@@ -3720,12 +3584,8 @@
     },
     {
         "title": "Dimer 9.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -3843,12 +3703,8 @@
     },
     {
         "title": "SAVAGE SWINGS 9.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "HSPU"
@@ -3904,12 +3760,8 @@
     },
     {
         "title": "ZERO GEAR 10.0",
-        "note": null,
+        "note": "25 Rounds",
         "exercises": [
-            {
-                "reps": 25,
-                "name": "Rounds"
-            },
             {
                 "reps": 1,
                 "name": "Burpee"
@@ -4157,12 +4009,8 @@
     },
     {
         "title": "Dimer 10.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -4280,12 +4128,8 @@
     },
     {
         "title": "SAVAGE SWINGS 10.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Full V-Sit"
@@ -4556,12 +4400,8 @@
     },
     {
         "title": "Squatting Machine 1.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -4575,12 +4415,8 @@
     },
     {
         "title": "Dimer 1.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -4702,12 +4538,8 @@
     },
     {
         "title": "SAVAGE SWINGS 1.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -4729,12 +4561,8 @@
     },
     {
         "title": "Lunging Machine 1.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -4997,12 +4825,8 @@
     },
     {
         "title": "Squatting Machine 2.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -5016,12 +4840,8 @@
     },
     {
         "title": "Dimer 2.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -5043,12 +4863,8 @@
     },
     {
         "title": "No Excuses 2.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -5170,12 +4986,8 @@
     },
     {
         "title": "SAVAGE SWINGS 2.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "HSPU"
@@ -5197,12 +5009,8 @@
     },
     {
         "title": "Lunging Machine 2.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -5452,12 +5260,8 @@
     },
     {
         "title": "Squatting Machine 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -5471,12 +5275,8 @@
     },
     {
         "title": "Dimer 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -5498,12 +5298,8 @@
     },
     {
         "title": "No Excuses 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Push Ups"
@@ -5598,12 +5394,8 @@
     },
     {
         "title": "SAVAGE SWINGS 3.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -5625,12 +5417,8 @@
     },
     {
         "title": "Lunging Machine 3.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -5880,12 +5668,8 @@
     },
     {
         "title": "Squatting Machine 4.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -5899,12 +5683,8 @@
     },
     {
         "title": "Dimer 4.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -5926,12 +5706,8 @@
     },
     {
         "title": "No Excuses 4.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Burpees"
@@ -6049,12 +5825,8 @@
     },
     {
         "title": "SAVAGE SWINGS 4.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Push Ups"
@@ -6076,12 +5848,8 @@
     },
     {
         "title": "Lunging Machine 4.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -6339,12 +6107,8 @@
     },
     {
         "title": "Squatting Machine 5.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -6358,12 +6122,8 @@
     },
     {
         "title": "Dimer 5.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict HSPU"
@@ -6477,12 +6237,8 @@
     },
     {
         "title": "SAVAGE SWINGS 5.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Squats"
@@ -6504,12 +6260,8 @@
     },
     {
         "title": "Lunging Machine 5.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -6767,12 +6519,8 @@
     },
     {
         "title": "Squatting Machine 6.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Squats"
@@ -6786,12 +6534,8 @@
     },
     {
         "title": "Dimer 6.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -6905,12 +6649,8 @@
     },
     {
         "title": "SAVAGE SWINGS 6.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Strict Pull Ups"
@@ -6932,12 +6672,8 @@
     },
     {
         "title": "Lunging Machine 6.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 20,
                 "name": "Lunges"
@@ -6962,12 +6698,8 @@
     },
     {
         "title": "ZERO GEAR 7.0",
-        "note": null,
+        "note": "2 Rounds",
         "exercises": [
-            {
-                "reps": 2,
-                "name": "Rounds"
-            },
             {
                 "reps": 25,
                 "name": "Squats"
@@ -7199,12 +6931,8 @@
     },
     {
         "title": "Dimer 7.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -7318,12 +7046,8 @@
     },
     {
         "title": "SAVAGE SWINGS 7.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Strict Pull Ups"
@@ -7356,12 +7080,8 @@
     },
     {
         "title": "ZERO GEAR 8.0",
-        "note": null,
+        "note": "2 Rounds",
         "exercises": [
-            {
-                "reps": 2,
-                "name": "Rounds"
-            },
             {
                 "reps": 25,
                 "name": "Burpee"
@@ -7593,12 +7313,8 @@
     },
     {
         "title": "Dimer 8.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -7735,12 +7451,8 @@
     },
     {
         "title": "SAVAGE SWINGS 8.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Lunges"
@@ -7773,12 +7485,8 @@
     },
     {
         "title": "ZERO GEAR 9.0",
-        "note": null,
+        "note": "25 Rounds",
         "exercises": [
-            {
-                "reps": 25,
-                "name": "Rounds"
-            },
             {
                 "reps": 1,
                 "name": "Burpee"
@@ -8026,12 +7734,8 @@
     },
     {
         "title": "Dimer 9.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -8149,12 +7853,8 @@
     },
     {
         "title": "SAVAGE SWINGS 9.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "HSPU"
@@ -8187,13 +7887,9 @@
     },
     {
         "title": "ZERO GEAR 10.0",
-        "note": null,
+        "note": "25 Rounds",
         "exercises": [
-            {
-                "reps": 25,
-                "name": "Rounds"
-            },
-            {
+                   {
                 "reps": 1,
                 "name": "Burpee"
             },
@@ -8440,12 +8136,8 @@
     },
     {
         "title": "Dimer 10.0",
-        "note": null,
+        "note": "10 Rounds",
         "exercises": [
-            {
-                "reps": 10,
-                "name": "Rounds"
-            },
             {
                 "reps": 5,
                 "name": "Strict Pull Ups"
@@ -8563,12 +8255,8 @@
     },
     {
         "title": "SAVAGE SWINGS 10.0",
-        "note": null,
+        "note": "5 Rounds",
         "exercises": [
-            {
-                "reps": 5,
-                "name": "Rounds"
-            },
             {
                 "reps": 10,
                 "name": "Full V-Sit"
