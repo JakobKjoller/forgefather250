@@ -10,6 +10,10 @@ body {
   margin-bottom: 20px;
 }
 
+.description h2, .description h3 {
+  color: #95241B;
+}
+
 .f250div {
   margin: auto;
   margin-top: 30px;
