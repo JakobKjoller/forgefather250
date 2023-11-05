@@ -9,9 +9,18 @@ body {
 .daily h1 {
   margin-bottom: 20px;
 }
+.daily h1, .daily h2 {
+  color: #95241B;
+}
+.daily button {
+  font-size: 2em;
+}
 
 .description h2, .description h3 {
   color: #95241B;
+}
+.description .card-header {
+  text-align: center;
 }
 
 .f250div {
