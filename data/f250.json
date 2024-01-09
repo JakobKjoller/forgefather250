@@ -555,7 +555,7 @@
         "benchmark": false
     },
     {
-        "title": "Squat Sandwich 2.0",
+        "title": "Swing Sandwich 2.0",
         "note": null,
         "exercises": [
             {
@@ -601,7 +601,7 @@
         "benchmark": false
     },
     {
-        "title": "Squat Sandwich 2.0",
+        "title": "Row Sandwich 2.0",
         "note": null,
         "exercises": [
             {
@@ -4621,52 +4621,6 @@
         "benchmark": false
     },
     {
-        "title": "25 Rounder 2.0",
-        "note": null,
-        "exercises": [
-            {
-                "reps": 1,
-                "name": "HSPU"
-            },
-            {
-                "reps": 2,
-                "name": "Strict Pull Ups"
-            },
-            {
-                "reps": 3,
-                "name": "KB Swing"
-            },
-            {
-                "reps": 4,
-                "name": "Lunges"
-            }
-        ],
-        "benchmark": false
-    },
-    {
-        "title": "Squat Sandwich 2.0",
-        "note": null,
-        "exercises": [
-            {
-                "reps": 100,
-                "name": "Squats"
-            },
-            {
-                "reps": 25,
-                "name": "Recline Rows"
-            },
-            {
-                "reps": 25,
-                "name": "Push Ups"
-            },
-            {
-                "reps": 100,
-                "name": "Squats"
-            }
-        ],
-        "benchmark": false
-    },
-    {
         "title": "No Excuses Super Setter 2.0",
         "note": null,
         "exercises": [
@@ -4682,7 +4636,7 @@
         "benchmark": false
     },
     {
-        "title": "Squat Sandwich 2.0",
+        "title": "Swing Sandwich 2.0",
         "note": null,
         "exercises": [
             {
@@ -4728,7 +4682,7 @@
         "benchmark": false
     },
     {
-        "title": "Squat Sandwich 2.0",
+        "title": "Row Sandwich 2.0",
         "note": null,
         "exercises": [
             {
